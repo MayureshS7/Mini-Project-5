@@ -9,6 +9,7 @@ class Main {
 		System.out.println("If you get 1 which means you will have a good day and 2 will ");
 
 		System.out.println("You got the number : "  + recursiveForTheDay(num));
+		System.out.println("Have a good one")
  }	
 
 		public static int recursiveForTheDay(int number){
